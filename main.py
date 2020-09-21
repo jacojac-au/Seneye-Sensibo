@@ -1,4 +1,4 @@
-import json, requests, calendar, time, os
+import requests
 
 #Seneye Settings
 username = 'email'
